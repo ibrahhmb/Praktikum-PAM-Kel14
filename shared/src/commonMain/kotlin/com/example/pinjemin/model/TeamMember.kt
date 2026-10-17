@@ -47,9 +47,9 @@ val teamMembers = listOf(
 
     TeamMember(
         id = 5,
-        name = "",
-        nim = "",
-        githubUsername = "github.com/",
-        initials = ""
+        name = "Hezkiel Rajani Aritonang",
+        nim = "123140118",
+        githubUsername = "github.com/Rendom-user",
+        initials = "Kikkks"
     )
 )
