@@ -31,10 +31,10 @@ val teamMembers = listOf(
 
     TeamMember(
         id = 3,
-        name = "",
-        nim = "",
-        githubUsername = "github.com/",
-        initials = ""
+        name = "Ariq Ramadhinov Ronny",
+        nim = "123140105",
+        githubUsername = "github.com/OyRiqq",
+        initials = "OyRiqq"
     ),
 
     TeamMember(
